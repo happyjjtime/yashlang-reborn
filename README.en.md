@@ -189,5 +189,5 @@ This is fixed starting from 0.2.0 (you can safely downgrade to 0.2.0 in future, 
 - Export and import database for backup and device migration (partially implemented https://github.com/sadr0b0t/yashlang/releases/tag/v0.7.0)
 - DONE: Audio-player mode: play sound track in background when the screen is switched off or the app is not in foucus (https://github.com/sadr0b0t/yashlang/issues/7 , more to come: https://github.com/sadr0b0t/yashlang/issues/179)
 - Local playlists with manual video adding
-- Other streaming services
+- Other streaming services.
 
