@@ -1,6 +1,6 @@
 # YaShlang [Йа-Шланг]
 Online PeerTube and YouTube player for Android with local playlists and whitelisted recommendations  
-for English go to [README.en.md](README.en.md)
+for English go to [README.en.md](README.en.md).
 
 Онлайн плеер PeerTube и YouTube с локальными плейлистами, каналами и рекомендациями.
 
@@ -191,5 +191,5 @@ updt: должно стать намного лучше после вот эти
 - Экспорт и импорт базы для резервной копии и переноса между устройствами (частично реализовано https://github.com/sadr0b0t/yashlang/releases/tag/v0.7.0)
 - ГОТОВО: Режим аудио-плеера: играть в фоне звуковую дорожку при выключенном экране (https://github.com/sadr0b0t/yashlang/issues/7 , здесь дополнительно: https://github.com/sadr0b0t/yashlang/issues/179)
 - Локальные списки проигрывания с ручным добавлением элементов
-- Другие онлайн-сервисы
+- Другие онлайн-.
 
